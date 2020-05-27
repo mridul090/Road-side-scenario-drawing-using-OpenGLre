@@ -1,0 +1,4 @@
+A Opengl computer graphics project "Road_side_Scenario" using C++ and Opengl.
+This is a scenario of a regular road of any city which  contain buildings, trees,lamp posts and a bus.
+
+Pressing "left arrow" will move the bus and clouds.And pressing "right arrow" will stop any movement.

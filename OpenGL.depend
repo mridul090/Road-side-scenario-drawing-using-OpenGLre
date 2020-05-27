@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590554538 source:d:\my last semester insa allah\computer graphics lab\secniro drawing\main.cpp
+	<windows.h>
+	<glut.h>
+	<stdlib.h>
+	<math.h>
+
+1392011164 d:\my last semester insa allah\computer graphics lab\secniro drawing\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
